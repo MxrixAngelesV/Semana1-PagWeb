@@ -1,0 +1,103 @@
+.black{
+	position: absolute;
+	left: 30px;
+	height: 600px;
+	width: 1300px;
+	background: #000000;
+}
+
+.rose{
+	position: absolute;
+	left: 10px;
+	height: 80px;
+	width: 600px;
+	top: 10px;
+	background: #FF84D8;
+}
+
+.jisoo{
+	position: absolute;
+	left: 10px;
+	height: 280px;
+	width: 600px;
+	top: 100px;
+	background: #A9A9A9;
+}
+
+.jennie{
+	position: absolute;
+	left: 10px;
+	height: 197px;
+	width: 300px;
+	top: 390px;
+	background: url('liss.jpg');
+	background-size: cover;
+}
+
+.lisa{
+	position: absolute;
+	left: 320px;
+	height: 197px;
+	width: 291px;
+	top: 390px;
+	background: #A9A9A9;
+}
+
+.yoongi{
+	position: absolute;
+	left: 706px;
+	height: 373px;
+	width: 584px;
+	top: 9px;
+	background: #FF84D8;
+}
+
+.taetae{
+	position: absolute;
+	right: 10px;
+	height: 197px;
+	width: 291px;
+	top: 390px;
+	background: url('bpl.jpg');
+	background-size: cover;
+}
+
+.kook{
+	position: absolute;
+	right: 313px;
+	height: 197px;
+	width: 279px;
+	top: 390px;
+	background: #A9A9A9;
+}
+
+.hobi{
+    position: absolute;
+	right: 20px;
+	height: 195px;
+	width: 560px;
+	top: 20px;
+	background: #A9A9A9;
+}
+
+.jinnie{ 	
+    position: absolute;
+    top:250px; 	
+    right:80px; 	
+    height:100px; 	
+    width:200px; 	
+    background: url('bp.jpg');
+    border: solid 5px black;  	
+    background-size: cover;
+}
+
+.nam{
+	position: absolute;
+    top:250px; 	
+    right:320px; 	
+    height:100px; 	
+    width:200px; 	
+    background: url('blackp.jpg');
+    border: solid 5px black;  	
+    background-size: cover;
+}
